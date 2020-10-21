@@ -8,3 +8,7 @@
 <br>
 
 [<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="50">](https://dev.to/mohsincode) [<img src="https://www.flaticon.com/svg/static/icons/svg/841/841364.svg" width="50">](mohsin-code.github.io)
+
+<br>
+
+[<img src="https://www.pinpng.com/pngs/m/57-575014_hackers-use-the-discord-app-to-deliver-malware.png" width="20">](mohsin-code.github.io) **Mohsin#3563**
