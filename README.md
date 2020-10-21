@@ -8,3 +8,5 @@
 <br>
 
 [<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="50">](https://dev.to/mohsincode)
+
+[<i class="fad fa-browser" width="50"></i>](mohsin-code.github.io)
