@@ -8,7 +8,7 @@
 <p>🔭 I’m currently working on Java and Javascript<br>	
    🌱 I’m currently a student of Computer System Engineering<br>
    📄 I’m currently learning JQuery, Node.js, P5.js, Tensorflow and JSON<br>
-   ⚡ Fun fact I like Python</p>
+   ⚡ Fun fact I like Python!</p>
    
 <!-- Copied Section -->
 
