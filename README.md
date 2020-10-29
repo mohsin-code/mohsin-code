@@ -28,7 +28,7 @@
 
 <h3 align="left">Other Profiles:</h3>
 
-[<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="50">](https://dev.to/mohsincode) [<img src="https://www.flaticon.com/svg/static/icons/svg/841/841364.svg" width="50">](https://mohsin-code.github.io)[<img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111628.svg" width="50">](https://stackoverflow.com/users/14508482/mohsin)[<img src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Black-Large.png" width="50">](https://codepen.io/mohsin-shah-the-flexboxer)
+[<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="50">](https://dev.to/mohsincode) [<img src="https://www.flaticon.com/svg/static/icons/svg/841/841364.svg" width="50">](https://mohsin-code.github.io)[<img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111628.svg" width="50">](https://stackoverflow.com/users/14508482/mohsin)[<img src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Fill-Black-Large.png" width="50">](https://codepen.io/mohsin-shah-the-flexboxer)
 
 <br>
 
