@@ -5,9 +5,9 @@
 <h3 align="center">I'm Syed Mohsin Shah</h3>
 <h3 align="center">A passionate developer from Pakistan</h3><br>
 
-<p>🔭 I’m currently working on Java and Javascript<br>	
+<p>🔭 I’m currently working on Javascript<br>	
    🌱 I’m currently a student of Computer System Engineering<br>
-   📄 I’m currently learning JQuery, Node.js, P5.js, Tensorflow and JSON<br>
+   📄 I’m currently learning Deep Learning<br>
    <!--⚡ Fun fact: I like to Code for you!</p>->
    
 <!-- Copied Section -->
