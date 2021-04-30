@@ -7,7 +7,7 @@
 
 <p>🔭 I’m currently working on Javascript<br>	
    🌱 I’m currently a student of Computer System Engineering<br>
-   📄 I’m currently learning Deep Learning<br>
+   📄 I’m currently learning React<br>
    <!--⚡ Fun fact: I like to Code for you!</p>->
    
 <!-- Copied Section -->
