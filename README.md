@@ -3,12 +3,7 @@
 <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="75">
 
 <h3 align="center">I'm Syed Mohsin Shah</h3>
-<h3 align="center">A passionate developer from Pakistan</h3><br>
-
-<p>🔭 I’m currently working on Javascript<br>	
-   🌱 I’m currently a student of Computer System Engineering<br>
-   📄 I’m currently learning React<br>
-   <!--⚡ Fun fact: I like to Code for you!</p>->
+<h3 align="center">A passionate developer</h3><br>
    
 <!-- Copied Section -->
 
